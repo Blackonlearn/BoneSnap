@@ -1,8 +1,10 @@
 # BoneSnap
-Blender Add Ons for Snapping Bone
+**Blender Add Ons for Snapping Bone**
+_This add on just snapping functino, full version is still in development (depends on my willingness 🤣)_
 
 This Add On is for those who need a snap function to their rigged object.
 As my experience it will be usefull for any animation and motion design projects.
+
 
 **HOW TO Install :**
 1. Clone This file to your pc.
