@@ -26,12 +26,20 @@ import bpy
 from bpy.props import *
 import mathutils
 
+num_bones = 2
+armature_name = 'Armature'
+ik_target_name = 'IK_Target'
+ik_pole_name = 'IK_Pole'
+fk_upperarm_name = 'FK_UpperArm'
+fk_forearm_name = 'FK_ForeArm'
+ik_forearm_name = 'IK_ForeArm'
+
 class UI(bpy.types.Panel):
     bl_label = "Snap FK/IK"
     bl_idname = "Snap_FKIK"
     bl_space_type = "VIEW_3D"
     bl_region_type = "UI"
-    bl_category = 'Rig UI'
+    bl_category = 'Misc'
     
     
     @classmethod
