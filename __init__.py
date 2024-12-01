@@ -11,6 +11,8 @@
 # You should have received a copy of the GNU General Public License
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
+#This simple code is mine, and it has already been pushed to github repo as my archive: https://github.com/Blackonlearn/BoneSnap
+
 bl_info = {
     "name" : "BoneSnap",
     "author" : "Bong",
